@@ -1,4 +1,5 @@
 # Soroban Project
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b6543ce-521f-483d-94a4-688a384111d6" />
 
 ## Project Structure
 
