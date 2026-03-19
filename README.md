@@ -1,6 +1,8 @@
 # Soroban Project
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b6543ce-521f-483d-94a4-688a384111d6" />
+🔗 https://lab.stellar.org/r/testnet/contract/CDY2JU7G5V4F3GSPHRANKIWPBCACIJIQVNLJABR6TQYKHMBPH6QDNC4U
 
+CONTRACT ID- CDY2JU7G5V4F3GSPHRANKIWPBCACIJIQVNLJABR6TQYKHMBPH6QDNC4U
 ## Project Structure
 
 This repository uses the recommended structure for a Soroban project:
